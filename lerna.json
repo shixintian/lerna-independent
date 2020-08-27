@@ -2,7 +2,8 @@
   "command": {
     "publish": {
       "ignoreChanges": ["ignored-file", "*.md"],
-      "message": "chore(release): publish"
+      "message": "chore(release): publish",
+      "skipNpm": true
     },
     "bootstrap": {
       "ignore": "component-*",
