@@ -17,6 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "tiantest-pakage2": "^1.0.2"
   }
 }
