@@ -4,4 +4,5 @@ module.exports = pakage2;
 
 function pakage2() {
     // TODO
+    console.log(1);
 }
