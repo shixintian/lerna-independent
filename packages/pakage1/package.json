@@ -1,6 +1,6 @@
 {
   "name": "tiantest-pakage1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "史心甜 <shixintian@jd.com>",
   "homepage": "",
@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "axios": "^0.20.0",
-    "tiantest-pakage2": "^1.0.2"
+    "tiantest-pakage2": "^1.0.3"
   }
 }
