@@ -1,5 +1,5 @@
 {
-  "name": "pakage2",
+  "name": "tiantest-pakage2",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "史心甜 <shixintian@jd.com>",
@@ -15,5 +15,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
   }
 }
